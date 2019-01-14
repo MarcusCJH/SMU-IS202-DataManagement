@@ -1,0 +1,46 @@
+ServiceNumber	routenumber	remark	startstop	endstop
+107	1	Hougang Shenton;Doesn't operate on Sundays	64009	03239
+107	2	Hougang Shenton;Doesn't operate on Sundays	03239	64009
+124	1	Whampoa Rd Seah Im Rd	52499	14009
+124	2	Whampoa Rd Seah Im Rd	14009	52499
+131	1	Whampoa Rd Bukit Merah	52499	10009
+131	2	Whampoa Rd Bukit Merah	10009	52499
+153	1	Bukit Merah Hougang Ctrl	10009	64009
+153	2	Bukit Merah Hougang Ctrl	64009	10009
+165	1	Hougang Clementi	64009	17009
+165	2	Hougang Clementi	17009	64009
+186	1	Shenton Way St Michael Ter	03239	52499
+186	2	Shenton Way St Michael Ter	52499	03239
+197	1	Bedok Jurong East	84009	28009
+197	2	Bedok Jurong East	28009	84009
+21	1	Pasir Ris St Michael Ter	77009	52499
+21	2	Pasir Ris St Michael Ter	52499	77009
+333	1	Jurong East Loop service	28009	28009
+35	1	Trunk Bedok Int	84009	84009
+354	1	Pasir Ris Int Loop	77009	77009
+38	1	Trunk Tampines Bedok	75009	84009
+38	2	Trunk Tampines Bedok	84009	75009
+39	1	Tampines Yishun	75009	59009
+39	2	Tampines Yishun	59009	75009
+410W	1	Bishan Shunfu Road Loop	53009	53009
+56	1	Bishan Marine Ctr Ter	53009	02089
+56	2	Bishan Marine Ctr Ter	02099	53009
+60	1	Eunos Int;Busus terminate at Bedok Int after 2335	82009	82009
+63	1	Eunos;Buses terminate at Jln Rumah Tingg after 2300	82009	82009
+63M	1	Loop service	82009	82009
+7	1	Bedok Clementi	84009	17009
+7	2	Bedok Clementi	17009	84009
+74	1	Hougang Ctrl Buona Vista Ter	64009	11379
+74	2	Hougang Ctrl Buona Vista Ter	11379	64009
+74e	1	Week day special	64009	11379
+74e	2	Week day special	11379	64009
+75	1	Bukit Panjang Marine Ctr Ter	45009	02089
+75	2	Bukit Panjang Marine Ctr Ter	02099	44259
+76	1	Yio Chu Kang Eunos	55509	82009
+76	2	Yio Chu Kang Eunos	82009	55509
+804	1	Loop service	59009	59009
+805	1	Loop service	59009	59009
+855	1	Yishun HarbourFront	59009	14009
+855	2	Yishun HarbourFront	14009	59009
+9	1	Bedok Loop service	84009	84009
+96	1	Clementi Loop service	17009	17009

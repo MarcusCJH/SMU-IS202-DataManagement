@@ -1,0 +1,7 @@
+Periodname	remark
+weekdayAMpeak	mondays to fridays 7am to 10am
+weekdayPMpeak	mondays to fridays 5pm to 8pm 
+weekdayNonpeak	mondays to fridays excluding weekday peak hours
+weekendAMpeak	mondays to fridays 9am to 11am
+weekendPMpeak	mondays to fridays 6pm to 10pm 
+weekendNonpeak	saturdays and sundays excluding weekend peak hours

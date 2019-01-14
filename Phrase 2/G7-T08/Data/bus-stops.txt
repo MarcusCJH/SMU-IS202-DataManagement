@@ -1,0 +1,1257 @@
+stopnumber	locationdesc	address
+01012	Hotel Grand Pacific	Victoria St
+01013	St. Joseph's Ch	Victoria St
+01029	Cosmic Insurance Bldg	Nth Bridge Rd
+01039	Nth Bridge Commercial Cplx	Nth Bridge Rd
+01112	Opp Bugis Junction	Victoria St
+01121	Stamford Pr Sch	Victoria St
+01139	Parkview Sq	Nth Bridge Rd
+01211	Opp Blk 461	Victoria St
+01219	Blk 461	Victoria St
+01229	Bef Sultan Mque	Nth Bridge Rd
+01231	Opp Textile Ctr	Jln Sultan
+01239	Sultan Plaza	Jln Sultan
+01311	Lavender Stn	Kallang Rd
+01319	Lavender Stn	Kallang Rd
+01329	Blk 8	Nth Bridge Rd
+01339	Bef Crawford Bridge	Crawford St
+01511	Opp The Gateway	Beach Rd
+01519	The Gateway	Beach Rd
+01521	Opp Plaza Parkroyal	Beach Rd
+01529	Plaza Parkroyal	Beach Rd
+01611	Raffles Hotel	Beach Rd
+01619	Opp Raffles Hotel	Beach Rd
+01621	Opp Shaw Twrs	Beach Rd
+01629	Shaw Twrs	Beach Rd
+01631	Aft Beach Rd	Middle Rd
+01639	Bef Beach Rd	Middle Rd
+02029	Opp S'pore Cricket Club	Connaught Dr
+02049	Raffles Hotel	Bras Basah Rd
+02051	Seating Gallery	Raffles Ave
+02061	The Esplanade	Raffles Ave
+02089	Pan Pacific Hotel	Raffles Blvd
+02099	Marina Ctr Ter	Raffles Blvd
+02101	Bef Temasek Ave	Raffles Ave
+02111	Esplanade Bridge	Esplanade Dr
+03011	Fullerton Sq	Fullerton Rd
+03019	OUE Bayfront	Collyer Quay
+03021	Prudential Twr	Cecil St
+03031	Opp AIA Twr	Robinson Rd
+03041	Opp PWC Bldg	Cross St
+03059	One Raffles Quay	Raffles Quay
+03111	Aft Capital Twr	Robinson Rd
+03129	UIC Bldg	Shenton Way
+03151	Opp GB Bldg	Cecil St
+03211	Bef Shenton Way	Palmer Rd
+03217	Opp AXA Twr	Shenton Way
+03218	Opp MAS Bldg	Shenton Way
+03219	Aft Shenton Way	Palmer Rd
+03222	Hub Synergy Pt	Anson Rd
+03223	Intl Plaza	Anson Rd
+03239	Shenton Way Ter	Palmer Rd
+04111	Capitol Bldg	Stamford Rd
+04121	SMU	Stamford Rd
+04142	Armenian Ch	Hill St
+04143	Stamford Ct	Hill St
+04151	Cath Of The Good Shepherd	Victoria St
+04167	St. Andrew's Cath	Nth Bridge Rd
+04168	Opp Peninsula Plaza	Nth Bridge Rd
+04179	NTUC Income Ctr	Bras Basah Rd
+04189	Manulife Ctr	Bras Basah Rd
+04222	Clarke Quay Stn	Eu Tong Sen St
+04223	Old Hill St Police Stn	Hill St
+04249	Opp The Treasury	Nth Bridge Rd
+05012	Pearl's Ctr	Eu Tong Sen St
+05013	People's Pk Cplx	Eu Tong Sen St
+05019	Opp Pearl's Ctr	New Bridge Rd
+05022	People's Pk Ctr	Eu Tong Sen St
+05023	Opp Hong Lim Pk	Eu Tong Sen St
+05029	Boat Quay	Sth Bridge Rd
+05039	New Bridge Ctr	New Bridge Rd
+05069	Outram Pk Stn	New Bridge Rd
+05129	Hong Lim Pk	Upp Pickering St
+05131	Opp Hong Lim Cplx	Upp Cross St
+05189	Opp Sri Mariamman Tp	Sth Bridge Rd
+05199	Opp Hong Lim Cplx	Sth Bridge Rd
+05239	Bef The Pinnacle@Duxton	Neil Rd
+05259	Aft Kreta Ayer Rd	Neil Rd
+05319	OCBC Ctr	Church St
+05519	Opp Maritime Hse	Cantonment Rd
+05521	Maritime Hse	Cantonment Rd
+05629	Opp Sth Pt	Cantonment Rd
+05631	Blk 16	Cantonment Link
+05641	Customs Port Br HQ	Keppel Rd
+05649	Opp Customs Port Br HQ	Keppel Rd
+06011	Opp Outram Pk Stn	Outram Rd
+06029	Outram Pk Stn	Outram Rd
+06049	BEF OUTRAM FLYOVER	Outram Rd
+06051	Blk 55	Tiong Bahru Rd
+06069	Aft Furama RiverFront	Outram Rd
+06071	Blk 2B	Zion Rd
+06081	Blk 94	Zion Rd
+06129	Grand Copthorne Hotel	Kim Seng Rd
+06131	The Boys' Brigade HQ	Zion Rd
+06141	Holiday Inn Atrium	Havelock Rd
+06149	Opp Holiday Inn Atrium	Havelock Rd
+06151	Hotel Miramar	Havelock Rd
+06159	River View Hotel	Havelock Rd
+06161	Blk 2	Havelock Rd
+06169	River Pl Condo	Havelock Rd
+06171	Opp Subordinate Ct	Upp Cross St
+06189	Ctrl Sq	Havelock Rd
+07011	Peace Ctr	Selegie Rd
+07021	Selegie Ctr	Selegie Rd
+07031	Tekka Ctr	S'goon Rd
+07111	Broadway Hotel	S'goon Rd
+07211	Sri Srinivasa Perumal Tp	S'goon Rd
+07221	Sri Vadapathira K Tp	S'goon Rd
+07231	Bef Tai Hoe Hotel	Kitchener Rd
+07319	Aft Allenby Rd	Jln Besar
+07329	Hoa Nam Bldg	Jln Besar
+07369	Aft Kallang Bahru	Lavender St
+07371	Aft Kallang Rd	Lavender St
+07379	Bef Kallang Rd	Lavender St
+07517	Opp Burlington Sq	Bencoolen St
+07518	Fortune Ctr	Bencoolen St
+07539	Opp Rochor Stn	Sungei Rd
+07561	Opp Midlink Plaza	Middle Rd
+07569	Midlink Plaza	Middle Rd
+07571	Opp Prime Ctr	Middle Rd
+08031	Dhoby Ghaut Stn	Penang Rd
+08041	YMCA	Orchard Rd
+08057	Dhoby Ghaut Stn	Orchard Rd
+08069	Rendezvous Grand Hotel	Bras Basah Rd
+08079	Sch of the Arts	Prinsep St
+08111	Winsland Hse	Penang Rd
+08121	Somerset Stn	Somerset Rd
+08138	Concorde Hotel S'pore	Orchard Rd
+09011	Opp Ngee Ann City	Orchard Turn
+09022	Opp Orchard Stn	Orchard Blvd
+09023	Orchard Stn	Orchard Turn
+09037	Opp Mandarin Orchard	Orchard Rd
+09038	Midpoint Orchard	Orchard Rd
+09047	Tang Plaza	Orchard Rd
+09048	Lucky Plaza	Orchard Rd
+09059	Natl Youth Council	Grange Rd
+09111	Opp Four Seasons Hotel	Orchard Blvd
+09121	Bef Tomlinson Rd	Orchard Blvd
+09131	Grange Residences	Grange Rd
+09139	Aft Cuscaden Rd	Grange Rd
+09141	British Council	Napier Rd
+09149	Opp British Council	Napier Rd
+09159	Aft Tomlinson Rd	Tanglin Rd
+09169	Delfi Orchard	Orchard Rd
+09179	Royal Thai Embassy	Orchard Rd
+09212	Royal Plaza On Scotts	Scotts Rd
+09219	Far East Plaza	Scotts Rd
+10009	Bt Merah Int	Bt Merah Ctrl
+10011	Opp New Bridge Rd Ter	New Bridge Rd
+10018	Bef Outram Rd	Eu Tong Sen St
+10021	Blk 3	Neil Rd
+10039	Bef Hosp Dr	Kg Bahru Rd
+10041	Aft Blair Rd	Kg Bahru Rd
+10049	Aft Jln Bt Merah	Kg Bahru Rd
+10051	Blk 149	Jln Bt Merah
+10059	Opp Blk 149	Jln Bt Merah
+10061	Blk 140	Jln Bt Merah
+10069	Opp Blk 140	Jln Bt Merah
+10071	Blk 111	Jln Bt Merah
+10079	Blk 201	Jln Bt Merah
+10081	Opp Blk 120	Jln Bt Merah
+10089	Blk 119	Jln Bt Merah
+10091	Bt Merah Town Ctr	Jln Bt Merah
+10099	Opp Bt Merah Town Ctr	Jln Bt Merah
+10101	SPRING S'pore Bldg	Jln Bt Merah
+10109	Opp SPRING S'pore Bldg	Jln Bt Merah
+10111	Opp Blk 28	Jln Bt Merah
+10119	Opp Pacific Tech Ctr	Jln Bt Merah
+10131	Opp Blk 2	Jln Bt Merah
+10139	Blk 1	Jln Bt Merah
+10141	Blk 18	Tiong Bahru Rd
+10149	Blk 1	Tiong Bahru Rd
+10151	Ctrl Green Condo	Tiong Bahru Rd
+10161	Opp Tiong Bahru Plaza	Tiong Bahru Rd
+10169	Tiong Bahru Plaza	Tiong Bahru Rd
+10171	Henderson Pk	Tiong Bahru Rd
+10179	Tiong Bahru Pk	Tiong Bahru Rd
+10181	Bef Al-Rabitah Mque	Tiong Bahru Rd
+10189	Blk 104A CP	Tiong Bahru Rd
+10191	Blk 78	Tiong Bahru Rd
+10199	Delta Swim Cplx	Tiong Bahru Rd
+10221	Ganges Ctr	Ganges Ave
+10229	Opp Harvest Mans	Ganges Ave
+10231	Opp Blk 79	Ganges Ave
+10239	Blk 79	Ganges Ave
+10241	Gan Eng Seng Sec Sch	Alexandra Rd
+10249	Opp Gan Eng Seng Sec Sch	Alexandra Rd
+10261	Delta Sports Hall	Alexandra Rd
+10269	Opp Delta Sports Hall	Alexandra Rd
+10271	Opp Tanglin View	Alexandra Rd
+10279	Tanglin View	Alexandra Rd
+10281	SIS Bldg	Alexandra Rd
+10289	Opp SIS Bldg	Alexandra Rd
+10291	Aft SM Motors Ctr	Alexandra Rd
+10299	Opp SM Motors Ctr	Alexandra Rd
+10361	Cendex Ctr	Lower Delta Rd
+10369	Opp Cendex Ctr	Lower Delta Rd
+10391	Opp Melati Blk 2	Kg Bahru Rd
+10399	Melati Blk 2	Kg Bahru Rd
+10401	Shriro Hse	Hoy Fatt Rd
+10409	Blk 50	Hoy Fatt Rd
+10411	Opp Blk 53	Hoy Fatt Rd
+10419	Blk 52	Hoy Fatt Rd
+10421	Blk 63B	Lengkok Bahru
+10429	Blk 54	Lengkok Bahru
+10451	Opp Blk 71	Redhill Rd
+10459	Blk 72	Redhill Rd
+10481	Opp Blk 73	Redhill Cl
+10489	Blk 73	Redhill Cl
+10501	Blk 104	Jln Bt Merah
+10599	Opp Blk 36	Jln Rumah Tinggi
+10651	Blk 161	Bt Merah Ctrl
+10659	Blk 1003	Bt Merah Ctrl
+11019	Opp OG Fty	Jln Bt Merah
+11021	Aft Queenstown NPC HQ	Queensway
+11029	Blk 166	Queensway
+11031	Opp Queen's Cl	Queensway
+11039	Blk 19	Queensway
+11041	Aft C'wealth Dr	Queensway
+11049	Opp Blessed Sacrament Ch	Queensway
+11051	Opp Queenstown Polyclinic	Queensway
+11059	Queenstown Polyclinic	Queensway
+11061	Opp Queensway Sec Sch	Queensway
+11069	Queensway Sec Sch	Queensway
+11071	Blk 97	Queensway
+11079	Opp Blk 95	Queensway
+11081	Viz Holland	Queensway
+11089	Opp Holland Hill Lodge	Queensway
+11091	Tulip Gdn	Farrer Rd
+11099	Opp Tulip Gdn	Farrer Rd
+11101	Farrer Rd Mkt	Farrer Rd
+11109	Spanish Village	Farrer Rd
+11111	Farrer Rd Stn	Farrer Rd
+11119	Opp Farrer Rd Stn	Farrer Rd
+11131	Queens Condo	C'wealth Ave
+11139	Blk 53A CP	C'wealth Ave
+11141	Queenstown Stn	C'wealth Ave
+11149	Queenstown Stn	C'wealth Ave
+11151	Blk 42	C'wealth Ave
+11159	Aft Ch Of Our Saviour	C'wealth Ave
+11181	Opp Blk 43	C'wealth Ave
+11189	Blk 43	C'wealth Ave
+11201	CSC Dempsey Clubhse	Holland Rd
+11209	Opp Peirce Rd	Holland Rd
+11211	Aft Peirce Rd	Holland Rd
+11219	Great Eastern Mans	Holland Rd
+11221	Lien Twrs	Holland Rd
+11229	Les Jardins De Holland	Holland Rd
+11231	Aft Estoril Mans	Holland Rd
+11239	Fairlodge	Holland Rd
+11261	Holland Village	Holland Rd
+11269	Opp Holland Village	Holland Rd
+11271	Aft East Sussex Lane	Holland Rd
+11279	Aft Coronation Rd West	Holland Rd
+11281	Aft Tan Boon Chong Ave	Holland Rd
+11289	Opp Tan Boon Chong Ave	Holland Rd
+11291	Cold Storage Jelita	Holland Rd
+11299	Opp Cold Storage Jelita	Holland Rd
+11361	Buona Vista Stn	Nth Buona Vista Rd
+11369	Opp Buona Vista Stn	Nth Buona Vista Rd
+11379	Buona Vista Ter	Nth Buona Vista Rd
+11381	Blk 10A	Holland Dr
+11511	Alexandra Hosp	Alexandra Rd
+11519	Opp Queensway Shop Ctr	Alexandra Rd
+12021	Bef Moonbeam Walk	Holland Rd
+12029	Opp Moonbeam Walk	Holland Rd
+12031	Pandan Valley Condo	Ulu Pandan Rd
+12039	Opp Pandan Valley Condo	Ulu Pandan Rd
+12041	Aft Pandan Valley	Ulu Pandan Rd
+12049	Opp Pandan Valley	Ulu Pandan Rd
+12051	Pine Gr Condo	Ulu Pandan Rd
+12059	Opp Pine Gr Condo	Ulu Pandan Rd
+12061	Blk 109	Clementi Rd
+12069	Opp Blk 109A	Clementi Rd
+12071	Blk 116	Clementi Rd
+12079	Opp Blk 116	Clementi Rd
+12081	Maju Camp	Clementi Rd
+12089	Opp Maju Camp	Clementi Rd
+12091	SIM HQ	Clementi Rd
+12099	Opp SIM HQ	Clementi Rd
+12101	Ngee Ann Poly	Clementi Rd
+12109	Opp Ngee Ann Poly	Clementi Rd
+12111	Bef Clementi Rd	Ulu Pandan Rd
+12119	Police KINS Trg Camp	Ulu Pandan Rd
+13011	Opp S'pore Botanic Gdns	Napier Rd
+13019	S'pore Botanic Gdns	Napier Rd
+13021	Aft Min Of Foreign Affairs	Holland Rd
+13029	Bef Tyersall Ave	Holland Rd
+13119	Opp Great World City	Kim Seng Rd
+13121	Opp Great World City	Zion Rd
+13139	The Trillium	Kim Seng Rd
+13141	Aft Zion Full Gospel Ch	Hoot Kiam Rd
+13159	Bef Zion Full Gospel Ch	Irwell Bank Rd
+13169	Grange 80 Condo	Grange Rd
+13171	Lucky Twr	Grange Rd
+13179	Opp Lucky Twr	Grange Rd
+13181	Aft One Tree Hill	Grange Rd
+13189	Bef One Tree Hill	Grange Rd
+14009	HarbourFront Int	Seah Im Rd
+14011	Bef Mt Faber Lodge	Kg Bahru Rd
+14019	Opp Mt Faber Lodge	Kg Bahru Rd
+14021	BEF TELOK BLANGAH RISE	Lower Delta Rd
+14029	Blk 105	Lower Delta Rd
+14031	St. Theresa's Convent	Lower Delta Rd
+14039	Opp St. Theresa's Convent	Lower Delta Rd
+14041	Blk 54	Henderson Rd
+14049	Opp Blk 55	Henderson Rd
+14051	Aft Telok Blangah Hts	Henderson Rd
+14059	Bef Telok Blangah Hts	Henderson Rd
+14061	Opp Former Railway Stn	Keppel Rd
+14069	Former Railway Stn	Keppel Rd
+14071	Keppel Workshop	Keppel Rd
+14081	Tg Pagar DP Blk F5	Keppel Rd
+14089	Opp Tg Pagar DP Blk F5	Keppel Rd
+14101	Opp Keppel DP Blk 517	Keppel Rd
+14109	Keppel DP Blk 517	Keppel Rd
+14119	Opp VivoCity	Telok Blangah Rd
+14121	HarbourFront Stn	Telok Blangah Rd
+14129	HarbourFront Stn	Telok Blangah Rd
+14131	Caribbean at Keppel Bay	Telok Blangah Rd
+14139	Bef Seah Im Rd	Telok Blangah Rd
+14141	VivoCity	Telok Blangah Rd
+14151	Opp Chr CC Chapel	Telok Blangah Rd
+14159	Bef Chr CC Chapel	Telok Blangah Rd
+14221	Opp St. Teresa's Ch	Kg Bahru Rd
+14229	St. Teresa's Ch	Kg Bahru Rd
+14231	Keppel DP Blk 519	Kg Bahru Rd
+14239	Opp Keppel DP Blk 519	Kg Bahru Rd
+14271	Al-Amin Mque	Telok Blangah Way
+14279	Blk 25	Telok Blangah Way
+14281	Opp Blk 11	Telok Blangah Way
+14291	Blk 27	Telok Blangah Way
+14299	Opp Blk 27	Telok Blangah Way
+14331	Aft Telok Blangah St 32	Telok Blangah Hts
+14339	Bef Telok Blangah St 32	Telok Blangah Hts
+14341	Opp Blk 59	Telok Blangah Hts
+14349	Blk 59	Telok Blangah Hts
+14351	Blk 48	Telok Blangah Dr
+14359	Blk 50	Telok Blangah Dr
+14379	Blk 40	Lower Delta Rd
+14381	Blk 109	Bt Purmei Ave
+14389	Opp Blk 109	Bt Purmei Ave
+14391	Opp Blk 85	Telok Blangah Hts
+14399	Blk 85	Telok Blangah Hts
+14491	Opp Telok Blangah Mkt/FC	Telok Blangah Dr
+14499	Telok Blangah Mkt/FC	Telok Blangah Dr
+16091	Opp SIT Dover	AYE
+16099	SIT Dover	AYE
+16149	NUS Fac Of Architecture	Clementi Rd
+16159	NUS Fac Of Engrg	Clementi Rd
+16169	NUS Raffles Hall	Kent Ridge Cres
+16179	Opp Yusof Ishak Hse	Kent Ridge Cres
+16189	Computer Ctr	Kent Ridge Cres
+16199	NUS Fac Of Design & Env	Kent Ridge Cres
+17009	Clementi Int	Clementi Ave 3
+17091	Aft Clementi Ave 1	Clementi Rd
+17099	Aft Dover Rd	Clementi Rd
+17101	Blk 352	Clementi Rd
+17109	Opp Blk 352	Clementi Rd
+17111	Blk 343	Clementi Rd
+17119	Opp Blk 343	Clementi Rd
+17121	Blk 610	AYE
+17129	Aft NUS High Sch	AYE
+17131	Clementi Flyover	AYE
+17139	Aft Clementi Swim Cplx	AYE
+17141	Clementi Stadium	AYE
+17149	Blk 426	AYE
+17151	Blk 410	C'wealth Ave West
+17159	Blk 365	C'wealth Ave West
+17161	Opp Blk 329	C'wealth Ave West
+17171	Clementi Stn	C'wealth Ave West
+17221	Blk 377	Clementi Ave 5
+17229	Blk 335	Clementi Ave 5
+17239	NTUC Fairprice	Clementi Ave 3
+18041	Normanton Pk	AYE
+18049	Opp Normanton Pk	AYE
+18071	NUH	Buona Vista Flyover
+18079	Opp NUH	Buona Vista Flyover
+18101	PSB Science Pk Bldg	Buona Vista Flyover
+18109	Opp PSB Science Pk Bldg	Buona Vista Flyover
+18111	Fairfield Meth Pr Sch	Dover Rd
+18119	Opp Fairfield Meth Pr Sch	Dover Rd
+18131	Science Pk	AYE
+18141	Aft Anglo-Chinese JC	Nth Buona Vista Rd
+18149	Opp Anglo-Chinese JC	Nth Buona Vista Rd
+19021	SP SMA	C'wealth Ave West
+19029	Opp SP SMA	C'wealth Ave West
+19031	Dover Stn	C'wealth Ave West
+19039	Dover Stn	C'wealth Ave West
+19041	Opp Sch Of Science & Tech	C'wealth Ave West
+19049	Sch Of Science & Tech	C'wealth Ave West
+19071	Opp United World College	Dover Rd
+19081	Opp ACS Boarding Sch	Dover Rd
+19089	United World College	Dover Rd
+19091	S'pore Poly	Dover Ave
+19099	Opp S'pore Poly	Dover Ave
+20011	Blk 506	AYE
+20019	Blk 431	AYE
+20021	Hong Leong Shop Ctr	AYE
+20029	Opp Hong Leong Shop Ctr	AYE
+20031	The Infiniti	AYE
+20039	Opp The Infiniti	AYE
+20051	Cycle & Carriage	AYE
+20059	Opp Cycle & Carriage	AYE
+20271	Opp German Ctr	Jurong Town Hall Rd
+28009	Jurong East Temp Int	Jurong Gateway Rd
+28221	Opp Intl Business Pk	Jurong Town Hall Rd
+28229	German Ctr	Jurong Town Hall Rd
+28231	Jurong Town Hall	Jurong Town Hall Rd
+28239	Opp Jurong Town Hall	Jurong Town Hall Rd
+28241	Opp Jurong East Lib	Jurong Town Hall Rd
+28249	Jurong East Lib	Jurong Town Hall Rd
+28301	Blk 131	Jurong Gateway Rd
+28321	Blk 239	Jurong East Ave 1
+28329	Blk 246	Jurong East Ave 1
+28331	Blk 229	Jurong East Ave 1
+28339	Blk 252	Jurong East Ave 1
+28431	Blk 134	Jurong East Ctrl
+28439	Blk 124	Jurong East Ctrl
+28451	Parc Oasis	Jurong East Ave 1
+28459	Opp Parc Oasis	Jurong East Ave 1
+28461	Blk 347	Jurong East Ave 1
+28471	Opp Blk 311	Jurong East St 32
+28481	Blk 306	Jurong East St 32
+28631	Opp Blk 288D	Toh Guan Rd
+28639	Blk 288E	Toh Guan Rd
+28641	Blk 284	Toh Guan Rd
+28649	Blk 286A	Toh Guan Rd
+28651	Opp IMM Bldg	Toh Guan Rd
+28659	IMM Bldg	Toh Guan Rd
+40011	Opp Little India Stn	Bt Timah Rd
+40019	Little India Stn	Bt Timah Rd
+40091	Bef Lewis Rd	Bt Timah Rd
+40099	Aft Dunkirk Ave	Dunearn Rd
+40101	KK Women & Child Hosp	Kg Java Rd
+40109	Opp KK Women & Child Hosp	Kg Java Rd
+40121	Opp Newton Life Ch	Newton Rd
+40129	Newton Life Ch	Newton Rd
+40171	Opp Env Bldg	Scotts Rd
+40179	Env Bldg	Scotts Rd
+40181	Newton Stn	Scotts Rd
+40189	Newton Stn	Scotts Rd
+40231	Raffles Town Club	Whitley Rd
+40239	Aft Tanglin CC	Whitley Rd
+40249	St. Joseph's Inst	Whitley Rd
+40251	Aft Wallace Way	Lornie Rd
+40259	Bef Wallace Way	Lornie Rd
+40261	LP 52	Lornie Rd
+40269	LP 57	Lornie Rd
+41011	NUS Bt Timah Campus	Bt Timah Rd
+41019	Aft Kheam Hock Rd	Dunearn Rd
+41021	Botanic Gdns Stn	Bt Timah Rd
+41029	Opp Botanic Gdns Stn	Dunearn Rd
+41031	Bef Crown Ctr	Bt Timah Rd
+41041	Coronation Plaza	Bt Timah Rd
+41049	Opp Coronation Plaza	Dunearn Rd
+41051	Tan Kah Kee Stn	Bt Timah Rd
+41061	Chinese High Sch	Bt Timah Rd
+41069	Opp Tan Kah Kee Stn	Dunearn Rd
+41071	Opp Natl JC	Bt Timah Rd
+41079	Natl JC	Dunearn Rd
+41081	Sixth Ave Stn	Bt Timah Rd
+41089	Aft Jln Naga Sari	Dunearn Rd
+41101	St. Margaret's Sec Sch	Farrer Rd
+41109	Opp St. Margaret's Sec Sch	Farrer Rd
+41111	Lutheran Twrs	Farrer Rd
+41119	Opp Lutheran Twrs	Farrer Rd
+41121	S'pore Bible College	Adam Rd
+41129	Opp S'pore Bible College	Adam Rd
+41131	Opp The Japanese Assn	Adam Rd
+41139	Aft The Japanese Assn	Adam Rd
+41141	Bef SICC	Adam Rd
+41149	Opp SICC	Adam Rd
+41151	Aft SICC	Lornie Rd
+41159	Aft Lornie Walk	Lornie Rd
+42011	Sixth Ave Ctr	Bt Timah Rd
+42019	Opp Sixth Ave Stn	Dunearn Rd
+42021	Aft Maple Ave	Bt Timah Rd
+42029	Aft Swiss Club Rd	Dunearn Rd
+42031	The Tessarina	Bt Timah Rd
+42039	Opp The Nexus	Dunearn Rd
+42041	The Nexus	Bt Timah Rd
+42049	Hua Guan Gdn	Dunearn Rd
+42051	King Albert Park Stn	Bt Timah Rd
+42059	Opp King Albert Pk Stn	Dunearn Rd
+42061	King Albert Lodge	Bt Timah Rd
+42071	Shell Kiosk	Upp Bt Timah Rd
+42089	Opp Bt Timah Plaza	Jln Anak Bt
+42091	Opp Bt Timah Shop Ctr	Upp Bt Timah Rd
+42109	Opp Beauty World Ctr	Jln Anak Bt
+42111	Aft Ct Bt Timah	Upp Bt Timah Rd
+42119	Southaven II	Upp Bt Timah Rd
+42141	Bef Dunearn Rd	Clementi Rd
+42149	Aft Bukit Timah Rd	Clementi Rd
+43011	Bt Regency	Upp Bt Timah Rd
+43019	Aft Bt Timah Fire Stn	Upp Bt Timah Rd
+43021	Aft Old Jurong Rd	Upp Bt Timah Rd
+43029	Opp The Hillside	Upp Bt Timah Rd
+43041	Hume Pk Condo	Upp Bt Timah Rd
+43049	Opp Hume Pk Condo	Upp Bt Timah Rd
+43051	Opp The Rail Mall	Upp Bt Timah Rd
+43059	The Rail Mall	Upp Bt Timah Rd
+43061	Hillview Stn	Upp Bt Timah Rd
+43069	Opp Hillview Stn	Upp Bt Timah Rd
+43071	Opp Dairy Farm Rd	Upp Bt Timah Rd
+43081	Opp Assumption Eng Sch	Upp Bt Timah Rd
+43089	Aft Assumption Eng Sch	Upp Bt Timah Rd
+43099	Assumption Pathway Sch	Upp Bt Timah Rd
+43121	Aft Cashew Terr	Cashew Rd
+43129	Cashew Pk Condo	Cashew Rd
+43131	Bt Panjang Pr Sch	Cashew Rd
+43139	Opp Bt Panjang Pr Sch	Cashew Rd
+44201	Aft Petir Stn	Petir Rd
+44209	Opp Petir Stn	Petir Rd
+44211	Blk 127	Petir Rd
+44219	Bet Blks 139/140	Petir Rd
+44251	Blk 604	Bt Panjang Rd
+44259	Blk 183	Bt Panjang Rd
+44631	Opp Bt Panjang Plaza	Jelebu Rd
+44639	Bt Panjang Plaza	Jelebu Rd
+45009	Bt Panjang Temp Bus Pk	Woodlands Rd
+50011	Opp Parish Of Christ Ch	Kg Java Rd
+50019	Parish Of Christ Ch	Keng Lee Rd
+50021	United Sq	Thomson Rd
+50029	Opp United Sq	Thomson Rd
+50031	Opp Novena Ch	Thomson Rd
+50038	Novena Stn	Thomson Rd
+50041	Novena Lodge	Thomson Rd
+50049	Opp Novena Lodge	Thomson Rd
+50051	Thomson Med Ctr	Thomson Rd
+50059	Opp Thomson Med Ctr	Thomson Rd
+50061	Opp Hotel Royal	Newton Rd
+50069	Hotel Royal	Newton Rd
+50071	Bef Carlisle Rd	Norfolk Rd
+50079	Opp Carlisle Rd	Norfolk Rd
+50081	Blk 41A	Owen Rd
+50089	Blk 51	Owen Rd
+50111	Revival Ctr Ch	Moulmein Rd
+50119	St. Michael's Sch	Moulmein Rd
+50121	Natl Skin Ctr	Moulmein Rd
+50129	Opp Tan Tock Seng Hosp	Moulmein Rd
+50159	Opp Jumbo Ind Bldg	Kim Keat Rd
+50161	Balestier Ctr	Balestier Rd
+50169	Aft Irrawaddy Rd	Balestier Rd
+50171	Zhongshan Mall	Balestier Rd
+50179	Opp Zhongshan Mall	Balestier Rd
+50189	Opp Public Man	Balestier Rd
+50191	Bef Balestier Plaza	Balestier Rd
+50199	HMI Balestier Hosp	Balestier Rd
+50201	Shaw Plaza	Balestier Rd
+50209	Aft Pegu Rd	Balestier Rd
+50211	Opp Balestier Pt	Balestier Rd
+50221	Opp Balestier Twrs	Balestier Rd
+50229	Balestier Twrs	Balestier Rd
+50231	ITE Balestier	Balestier Rd
+50239	S'pore Indian Assn	Balestier Rd
+50249	S'pore Khalsa Assn	Balestier Rd
+50251	Farrer Pk Stn	Rangoon Rd
+50261	Kentish Lodge	Rangoon Rd
+50301	Kentish Green	Kent Rd
+50321	Aft Gloucester Rd	Dorset Rd
+50331	Blk 122	Mcnair Rd
+50349	Blk 107	Towner Rd
+50351	Farrer Pk Tennis Ctr	Dorset Rd
+50991	Blk 82	Whampoa Dr
+51011	Opp Tan Tong Meng Twr	Thomson Rd
+51019	Thomson Flyover	Thomson Rd
+51071	Macritchie Reservoir	Thomson Rd
+51079	Opp Macritchie Reservoir	Thomson Rd
+51091	Opp Catholic JC	PIE
+51099	Catholic JC	Whitley Rd
+51101	Old Police Academy	PIE
+51109	Opp Old Police Academy	Whitley Rd
+51111	Opp Andrew Rd	Lornie Rd
+51119	Bef Andrew Rd	Lornie Rd
+52021	Opp Blk 1004	Braddell Rd
+52031	Opp Blk 998	Braddell Rd
+52039	Aft Muhajirin Mque	Braddell Rd
+52049	Blk 19	Jln Tenteram
+52051	Blk 147	Braddell Rd
+52059	Blk 219	Braddell Rd
+52061	BCA Academy	Braddell Rd
+52069	Comfortdelgro Corp Ltd	Braddell Rd
+52071	Trellis Twrs	Jln Toa Payoh
+52079	Opp Trellis Twrs	Jln Toa Payoh
+52099	Opp NKF	Kim Keat Rd
+52109	Bet Blks 33/34	Jln Bahagia
+52119	Opp Blk 65	Jln Tenteram
+52129	Blk 29	Jln Bahagia
+52181	Opp Toa Payoh Stn	Lor 2 Toa Payoh
+52189	Toa Payoh Stn	Lor 2 Toa Payoh
+52231	Opp Blk 177	Toa Payoh Ctrl
+52239	Blk 177	Toa Payoh Ctrl
+52271	Jackson Sq	Lor 4 Toa Payoh
+52279	Blk 56	Lor 4 Toa Payoh
+52361	Blk 1	Lor 6 Toa Payoh
+52369	Blk 237	Lor 6 Toa Payoh
+52451	Blk 114	Whampoa Rd
+52499	St. Michael's Ter	Whampoa Rd
+53009	Bishan Int	Bishan St 13
+53011	St. Theresa's Home	Upp Thomson Rd
+53019	Opp St. Theresa's Home	Upp Thomson Rd
+53021	Opp Shunfu Est	Upp Thomson Rd
+53029	Shunfu Est	Upp Thomson Rd
+53039	Thomson CC	Upp Thomson Rd
+53041	Bef Thomson Ridge	Upp Thomson Rd
+53049	Bef Jln Todak	Upp Thomson Rd
+53051	Bef Thomson Plaza	Upp Thomson Rd
+53059	Opp Thomson Plaza	Upp Thomson Rd
+53061	Thomson View Condo	Upp Thomson Rd
+53069	Opp Windsor Pk	Upp Thomson Rd
+53071	Opp Flame Tree Pk	Upp Thomson Rd
+53079	Flame Tree Pk	Upp Thomson Rd
+53081	Opp Faber Gdn	Upp Thomson Rd
+53089	Faber Gdn	Upp Thomson Rd
+53091	Bef Ang Mo Kio Ave 1	Upp Thomson Rd
+53099	Aft Ang Mo Kio Ave 1	Upp Thomson Rd
+53121	Marymount Stn	Marymount Rd
+53129	Opp Marymount Stn	Marymount Rd
+53131	Blk 319	Marymount Rd
+53139	Marymount View	Marymount Rd
+53141	Opp Whitley Sec Sch	Marymount Rd
+53149	Whitley Sec Sch	Marymount Rd
+53151	Opp Blk 263A CP	Marymount Rd
+53159	Blk 260	Marymount Rd
+53161	Opp Blk 254	Marymount Rd
+53169	Blk 254	Marymount Rd
+53211	Opp Raffles Inst	Bishan Rd
+53219	Raffles Inst	Bishan Rd
+53221	Blk 115	Bishan St 11
+53229	Blk 501	Bishan St 11
+53251	Blk 125	Bishan St 11
+53259	Opp Blk 125	Bishan St 11
+53261	Opp Bishan Stadium	Bishan St 14
+53271	Opp Kuo Chuan Presby Sch	Bishan St 13
+53279	Kuo Chuan Presby Sch	Bishan St 13
+53281	Blk 169	Bishan St 13
+53289	Zion Bible Presby Ch	Bishan St 13
+53299	Blk 314	Shunfu Rd
+53309	Opp Raffles Inst	Bishan St 21
+53319	Bosch	Bishan St 21
+53321	CityCab	Sin Ming Ave
+53331	Bef Bright Hill Tp	Sin Ming Ave
+53341	Blk 407	Sin Ming Ave
+53351	Ai Tong Sch	Sin Ming Ave
+53361	Blk 454	Sin Ming Ave
+53371	Blk 257	Bishan St 22
+53381	Bishan Nth Shop Mall	Bishan St 22
+53391	Opp Blk 203	Bishan St 22
+53409	Blk 131	Bishan St 12
+53419	Blk 117	Bishan St 12
+54011	Blk 207	Ang Mo Kio Ave 6
+54019	Aft Blk 304	Ang Mo Kio Ave 6
+54061	Blk 246	Ang Mo Kio Ave 1
+54069	Opp Blk 246	Ang Mo Kio Ave 1
+54181	Blk 258	Ang Mo Kio Ave 4
+54189	Blk 110	Ang Mo Kio Ave 4
+54191	Blk 170	Ang Mo Kio Ave 4
+54199	Blk 163	Ang Mo Kio Ave 4
+54201	Opp Blk 155	Ang Mo Kio Ave 4
+54209	Bet Blks 152/155	Ang Mo Kio Ave 4
+54211	Mayflower Sec Sch	Ang Mo Kio Ave 3
+54219	Opp Mayflower Sec Sch	Ang Mo Kio Ave 3
+54221	Opp Ang Mo Kio Pr Sch	Ang Mo Kio Ave 3
+54229	Ang Mo Kio Pr Sch	Ang Mo Kio Ave 3
+54231	Blk 129	Ang Mo Kio Ave 3
+54239	Blk 209	Ang Mo Kio Ave 3
+54241	Blk 700B	Ang Mo Kio Ave 3
+54248	Blk 324	Ang Mo Kio Ave 3
+54261	Ang Mo Kio Stn	Ang Mo Kio Ave 3
+54269	Opp Ang Mo Kio Stn	Ang Mo Kio Ave 3
+54271	Blk 586	Ang Mo Kio Ave 3
+54279	Blk 427	Ang Mo Kio Ave 3
+54281	Blk 570	Ang Mo Kio Ave 3
+54289	Blk 452	Ang Mo Kio Ave 3
+54291	Blk 564	Ang Mo Kio Ave 3
+54299	Opp Blk 565	Ang Mo Kio Ave 3
+54301	Blk 5022	Ang Mo Kio Ave 3
+54309	Opp Blk 5022	Ang Mo Kio Ave 3
+55011	Opp The Calrose	Yio Chu Kang Rd
+55019	The Calrose	Yio Chu Kang Rd
+55021	Opp Seasons Pk	Yio Chu Kang Rd
+55029	Seasons Pk	Yio Chu Kang Rd
+55131	Blk 612	Ang Mo Kio Ave 4
+55139	Blk 641	Ang Mo Kio Ave 4
+55141	Opp Blk 622	Ang Mo Kio Ave 4
+55149	Blk 622	Ang Mo Kio Ave 4
+55151	Ang Mo Kio Comm Hosp	Ang Mo Kio Ave 9
+55159	Opp Ang Mo Kio Comm Hosp	Ang Mo Kio Ave 9
+55189	Yio Chu Kang Stn	Ang Mo Kio Ave 6
+55241	Aft Yio Chu Kang Rd	Lentor Ave
+55251	Countryside Est	Lentor Ave
+55259	Opp Countryside Est	Lentor Ave
+55261	Bullion Pk Condo	Lentor Ave
+55269	Opp Bullion Pk Condo	Lentor Ave
+55271	Aft Lentor Flyover	Lentor Ave
+55279	Lentor Flyover	Lentor Ave
+55281	Aft SLE	Lentor Ave
+55289	LP 94	Lentor Ave
+55509	Yio Chu Kang Int	Ang Mo Kio Ave 8
+56019	Bef Ang Mo Kio Ave 1	Upp Thomson Rd
+56021	Opp S'wang Hill FC	Upp Thomson Rd
+56029	JCU S'pore	Upp Thomson Rd
+56031	Bef Yio Chu Kang Rd	Upp Thomson Rd
+56039	Aft Yio Chu Kang Rd	Upp Thomson Rd
+56191	Opp NPB Serangoon Depot	Yio Chu Kang Rd
+56199	NPB Serangoon Depot	Yio Chu Kang Rd
+56201	Aft Munshi Abdullah Ave	Yio Chu Kang Rd
+56209	Bef Thomson Hills Dr	Yio Chu Kang Rd
+56261	Blk 248	Ang Mo Kio Ave 1
+56269	Opp Blk 248	Ang Mo Kio Ave 1
+59009	Yishun Temp Int	Yishun Ave 2
+59011	Bef Sg Seletar Bridge	Lentor Ave
+59019	Aft Sg Seletar Bridge	Lentor Ave
+59021	Bef Yishun Ave 1	Lentor Ave
+59029	Aft Yishun Ave 1	Lentor Ave
+59031	Opp Yishun Sports Hall	Yishun Ave 2
+59039	Yishun Sports Hall	Yishun Ave 2
+59041	Bef Khatib Stn	Yishun Ave 2
+59049	Opp Khatib Stn	Yishun Ave 2
+59051	Blk 790	Yishun Ave 2
+59059	Blk 608	Yishun Ave 2
+59061	Blk 763	Yishun Ave 2
+59069	Opp Blk 757	Yishun Ave 2
+59073	Aft NorthPoint Shop Ctr	Yishun Ave 2
+59091	Blk 154	Yishun Ave 2
+59099	Blk 220	Yishun Ave 2
+59231	Blk 227	Yishun Ring Rd
+59239	Blk 291	Yishun Ring Rd
+59241	Blk 236	Yishun Ring Rd
+59249	Blk 257	Yishun Ring Rd
+59281	Blk 654	Yishun Ave 4
+59289	Blk 676 CP	Yishun Ave 4
+59291	Blk 666	Yishun Ave 4
+59299	Blk 671 CP	Yishun Ave 4
+59341	Khoo Teck Puat Hosp	Yishun Ctrl
+59349	Opp Khoo Teck Puat Hosp	Yishun Ctrl
+59381	Blk 314	Yishun Ring Rd
+59389	Opp Blk 314	Yishun Ring Rd
+59391	Blk 342B	Yishun Ring Rd
+59399	Opp Blk 367	Yishun Ring Rd
+59401	Blk 358	Yishun Ring Rd
+59409	Evangel Family Ch	Yishun Ring Rd
+59411	Blk 356	Yishun Ring Rd
+59419	Blk 413	Yishun Ring Rd
+59449	Opp Naval Base Pr Sch	Yishun Ave 4
+59461	Opp Blk 419	Yishun Ave 11
+59471	Blk 430B	Yishun Ave 1
+59579	Blk 456	Yishun Ring Rd
+59581	Blk 432C	Yishun St 41
+59589	Blk 505C	Yishun St 41
+59639	Bet Blks 445/449	Yishun Ring Rd
+59661	Opp Yishun Polyclinic	Yishun Ctrl 1
+59669	Yishun Polyclinic	Yishun Ctrl 1
+59671	Bef Yishun Stn	Yishun Ave 2
+59689	Blk 203	Yishun Ctrl
+59691	Bef Blk 935	Yishun Ctrl 1
+59699	Opp Blk 935	Yishun Ctrl 1
+59719	Opp Blk 672C	Yishun Ring Rd
+59731	Blk 512A	Yishun Ave 1
+59741	Opp Orchid Country Club	Yishun Ave 1
+59751	Opp The Shaughnessy	Yishun Ave 1
+60011	S'pore Post	Kallang Bahru
+60019	Opp S'pore Post	Kallang Bahru
+60021	Chubb S'pore	Kallang Bahru
+60029	Blk 16	Kallang Bahru
+60031	Blk 66	Kallang Bahru
+60039	Opp Blk 66	Kallang Bahru
+60051	Opp Kallang Pl	Boon Keng Rd
+60059	Bef Kallang Pl	Boon Keng Rd
+60099	Bef Lavender St	Bendemeer Rd
+60159	Blk 54	Bendemeer Rd
+60161	St. Michael's Pl	S'goon Rd
+60179	MOM Svcs Ctr	Bendemeer Rd
+60199	Blk 22	Boon Keng Rd
+60201	Leong Bee Ct	Upp S'goon Rd
+60209	Opp Leong Bee Ct	Upp S'goon Rd
+60221	Blk 73	Geylang Bahru
+60229	Blk 68	Geylang Bahru
+60261	Potong Pasir Stn	Upp S'goon Rd
+60269	Potong Pasir Stn	Upp S'goon Rd
+61011	Blk 103	Upp S'goon Rd
+61019	Opp Blk 101	Upp S'goon Rd
+61021	Aft Woodleigh Pk	Upp S'goon Rd
+61029	Opp Woodleigh Pk	Upp S'goon Rd
+61031	Woodleigh Stn	Upp S'goon Rd
+61039	Woodleigh Stn	Upp S'goon Rd
+61041	Bef Braddell Rd	Upp S'goon Rd
+61049	Aft Bartley Rd	Upp S'goon Rd
+62011	Aft Bartley Rd	Upp Paya Lebar Rd
+62019	Aft Rochdale Rd	Upp Paya Lebar Rd
+62021	Wisma AUPE	Upp Paya Lebar Rd
+62029	Paya Lebar Gdns	Upp Paya Lebar Rd
+62031	How Sun Pk	Upp Paya Lebar Rd
+62039	Raya Gdn	Upp Paya Lebar Rd
+62041	Opp Bethany Presby Ch	Upp Paya Lebar Rd
+62049	Aft Paya Lebar Cres	Upp Paya Lebar Rd
+62051	Paya Lebar Camp	Upp Paya Lebar Rd
+62059	Blk 161	Upp Paya Lebar Rd
+62111	Aft Sommerville Rd	Upp S'goon Rd
+62119	Aft Sunshine Lodge	Upp S'goon Rd
+62121	Aft Wolskel Rd	Upp S'goon Rd
+62129	Blk 403	Upp S'goon Rd
+62131	S'goon Stn	Upp S'goon Rd
+62139	OPP S'GOON STN	Upp S'goon Rd
+62141	Opp Blk 1	Upp S'goon Rd
+62149	Paya Lebar Camp	Upp S'goon Rd
+63011	Nam Peng Ctr	Upp S'goon Rd
+63019	Aft Serangoon Shop Ctr	Upp S'goon Rd
+63021	The Helping Hand	Upp S'goon Rd
+63029	Opp The Helping Hand	Upp S'goon Rd
+63031	Kovan Stn	Upp S'goon Rd
+63039	Kovan Stn	Upp S'goon Rd
+63041	Opp Glad Tidings Ch	Upp S'goon Rd
+63049	Glad Tidings Ch	Upp S'goon Rd
+63051	Serangoon JC	Upp S'goon Rd
+63059	Opp Serangoon JC	Upp S'goon Rd
+63061	Bef Nativity Ch Ctr	Upp S'goon Rd
+63069	Nativity Ch Ctr	Upp S'goon Rd
+63141	Blk 209	Boundary Rd
+63149	Serangoon Stadium	Boundary Rd
+63179	Bef Tai Seng Chr Ch	Yio Chu Kang Rd
+63181	Bef St. Helier's Ave	Yio Chu Kang Rd
+63189	Aft Serangoon Gdn Way	Yio Chu Kang Rd
+63191	Aft Serangoon Nth Ave 1	Yio Chu Kang Rd
+63199	Aft Serangoon Nth Ave 1	Yio Chu Kang Rd
+63201	Blk 133	Yio Chu Kang Rd
+63209	Toho Green	Yio Chu Kang Rd
+63211	Blk 138	Yio Chu Kang Rd
+63219	Opp Blk 139	Yio Chu Kang Rd
+63311	Blk 634	Hougang Ave 2
+63319	Opp Blk 634	Hougang Ave 2
+63341	Opp Blk 709	Hougang Ave 2
+63349	Blk 708	Hougang Ave 2
+63351	Opp Hougang Swim Cplx	Hougang Ave 10
+63359	Hougang Swim Cplx	Hougang Ave 10
+63361	Opp Serangoon Swim Cplx	Yio Chu Kang Link
+63369	Serangoon Sports Cplx	Yio Chu Kang Link
+63371	Blk 679	Hougang Ave 8
+63379	Blk 608	Hougang Ave 8
+63381	Xinmin Pr Sch	Hougang Ave 8
+63389	Opp Xinmin Pr Sch	Hougang Ave 8
+63391	Blk 639	Hougang Ave 8
+63399	Blk 632	Hougang Ave 8
+64009	Hougang Ctrl Int	Hougang Ctrl
+64011	Naung Ct	Upp S'goon Rd
+64019	Blk 302	Upp S'goon Rd
+64031	Blk 436	Hougang Ave 8
+64039	Blk 434	Hougang Ave 8
+64041	Hougang Plaza	Upp S'goon Rd
+64049	Opp Hougang Plaza	Upp S'goon Rd
+64051	Blk 465A	Upp S'goon Rd
+64059	Blk 355	Upp S'goon Rd
+64071	Opp Punggol Pk	Hougang Ave 8
+64079	Punggol Pk	Hougang Ave 8
+64331	Blk 508	Hougang Ave 4
+64339	Blk 602	Hougang Ave 4
+64341	Blk 681	Hougang Ave 8
+64349	Blk 502	Hougang Ave 8
+64351	Opp Montfort Sch	Hougang Ave 8
+64359	Montfort Sch	Hougang Ave 8
+64361	Blk 535	Hougang Ave 8
+64369	Blk 532	Hougang Ave 8
+64391	Blk 831	Hougang Ave 10
+64399	Blk 512	Hougang Ave 10
+64521	Blk 834	Hougang Ave 4
+64529	Hougang Polyclinic	Hougang Ave 4
+64551	Blk 836	Hougang Ctrl
+64559	Blk 830A	Hougang Ctrl
+65191	Bef Punggol Rd	TPE
+65199	Aft Punggol Rd	TPE
+66061	Aft Braddell Flyover	Braddell Rd
+66069	Bef Braddell Flyover	Braddell Rd
+66071	Opp PUB Recreation Club	Braddell Rd
+66079	PUB Recreation Club	Braddell Rd
+66081	Opp S'pore Power Trg Inst	Braddell Rd
+66089	S'pore Power Trg Inst	Braddell Rd
+66101	Blk 516	Ang Mo Kio Ave 3
+66109	Blk 151	Ang Mo Kio Ave 3
+66331	Blk 554	Ang Mo Kio Ave 3
+66339	Blk 101	Ang Mo Kio Ave 3
+66341	Daikin S'pore	Ang Mo Kio Ave 3
+66349	Opp Daikin S'pore	Ang Mo Kio Ave 3
+68111	Bef Seletar Camp G	Jln Kayu
+68119	Aft Seletar Camp G	Jln Kayu
+70011	Opp Blk 125	Aljunied Rd
+70019	Blk 125	Aljunied Rd
+70151	Aft Jln Anggerek	Merpati Rd
+70161	Blk 14	Merpati Rd
+70171	Blk 77	Circuit Rd
+70181	Blk 36	Circuit Rd
+70191	MacPherson Sec Sch	Circuit Rd
+70201	ITE MacPherson Campus 1	Circuit Rd
+70211	Blk 90	Pipit Rd
+70221	Blk 79 FC	Circuit Rd
+70231	Aft Merpati Rd	Mattar Rd
+70241	MacPherson Pr Sch	Mattar Rd
+70251	MacPherson Stn	Paya Lebar Rd
+70259	Opp MacPherson Stn	Paya Lebar Rd
+70261	Opp Orion @ Paya Lebar	Paya Lebar Rd
+70269	Citipoint Ind Cplx	Paya Lebar Rd
+70271	Le Crescendo	Paya Lebar Rd
+70279	Opp Trinity @ Paya Lebar	Paya Lebar Rd
+70281	Aft Tai Seng Stn	Upp Paya Lebar Rd
+70289	Opp Tai Seng Stn	Upp Paya Lebar Rd
+70291	Asiawide Ind Bldg	Upp Paya Lebar Rd
+70299	Opp Asiawide Ind Bldg	Upp Paya Lebar Rd
+70301	Aft Paya Lebar St	Upp Paya Lebar Rd
+70309	Opp Paya Lebar St	Upp Paya Lebar Rd
+70391	Opp MacPherson Sec Sch	Lor Bengkok
+71091	Blk 637	Eunos Link
+71099	Blk 311	Eunos Link
+71101	Blk 318	Ubi Ave 1
+71109	Maha Bodhi Sch	Ubi Ave 1
+71111	Blk 343	Ubi Ave 1
+71119	Opp Blk 343	Ubi Ave 1
+71131	Automobile Megamart	Ubi Ave 2
+71139	Blk 302	Ubi Ave 2
+71161	Blk 3019	Ubi Ave 2
+71169	Aztech Bldg	Ubi Ave 2
+71201	Paya Ubi Ind Pk	Ubi Ave 1
+71209	Opp Paya Ubi Ind Pk	Ubi Ave 1
+71211	Ubi 55	Ubi Ave 1
+71219	Ubi Techpark	Ubi Ave 1
+71221	Meiban Ind Bldg	Ubi Rd 1
+71229	Opp Meiban Ind Bldg	Ubi Rd 1
+72011	Blk 322	Jln Eunos
+72019	Eunos Mans	Jln Eunos
+72021	Blk 646	Bedok Reservoir Rd
+72029	Opp Blk 646	Bedok Reservoir Rd
+72061	Blk 122	Bedok Reservoir Rd
+72069	Blk 121	Bedok Reservoir Rd
+72071	Blk 133	Bedok Reservoir Rd
+72079	Blk 609	Bedok Reservoir Rd
+75009	Tampines Int	Tampines Ctrl 1
+75051	Opp SAFRA Tampines	Tampines Ave 1
+75059	SAFRA Tampines	Tampines Ave 1
+75061	Opp Bedok Reform Trg Ctr	Bedok Reservoir Rd
+75069	Bedok Reform Trg Ctr	Bedok Reservoir Rd
+75341	Opp The Clearwater Condo	Bedok Reservoir Rd
+75349	The Clearwater Condo	Bedok Reservoir Rd
+76051	Tampines Stadium	Tampines Ave 5
+76059	Opp Tampines Stadium	Tampines Ave 5
+76061	Blk 938	Tampines Ave 5
+76069	Blk 147	Tampines Ave 5
+76071	Blk 141	Tampines Ave 2
+76079	Blk 101	Tampines Ave 2
+76081	Opp The Holy Trinity Ch	Tampines Ave 2
+76089	The Holy Trinity Ch	Tampines Ave 2
+76091	Blk 206	Tampines Ave 2
+76099	Blk 285	Tampines Ave 2
+76101	Tampines East CC	Tampines Ave 2
+76109	Blk 302	Tampines Ave 2
+76131	UOB Tampines Ctr	Tampines Ave 4
+76139	Opp Century Sq	Tampines Ave 4
+76141	Tampines Stn/Int	Tampines Ave 4
+76149	Opp Tampines Stn/Int	Tampines Ave 4
+76191	Opp Tampines Reg Lib	Tampines Ave 7
+76199	Bef Tampines Reg Lib	Tampines Ave 7
+76201	Blk 423	Tampines Ave 7
+76209	Blk 233	Tampines Ave 7
+76211	Blk 449	Tampines Ave 7
+76219	Blk 230E	Tampines Ave 7
+76221	Opp Blk 230	Tampines Ave 7
+76229	Blk 229	Tampines Ave 7
+76231	Tampines JC	Tampines Ave 7
+76239	Opp Tampines JC	Tampines Ave 7
+76241	Blk 497D	Tampines Ave 7
+76249	Blk 370	Tampines Ave 7
+77009	Pasir Ris Int	Pasir Ris Dr 3
+77011	Opp Blk 515	Pasir Ris Dr 1
+77019	Blk 515	Pasir Ris Dr 1
+77021	Opp Blk 571	Pasir Ris Dr 1
+77029	Blk 571	Pasir Ris Dr 1
+77031	Aft Pasir Ris Ctrl	Pasir Ris Dr 1
+77039	Bef Pasir Ris Ctrl	Pasir Ris Dr 1
+77041	Blk 541	Pasir Ris Dr 1
+77049	Pasir Ris Town Pk	Pasir Ris Dr 1
+77051	Blk 115	Pasir Ris Dr 1
+77059	Blk 425	Pasir Ris Dr 1
+77231	Meridian JC	Pasir Ris Dr 1
+77239	Blk 643	Pasir Ris Dr 1
+77241	Opp Blk 640	Pasir Ris Dr 1
+77249	Blk 640	Pasir Ris Dr 1
+77281	Blk 740	Pasir Ris Dr 1
+77289	Blk 738	Pasir Ris Dr 1
+77331	Blk 747A	Pasir Ris Dr 12
+77339	Aft TPE	Pasir Ris Dr 12
+78049	Blk 612	Pasir Ris Dr 1
+78051	Blk 197	Pasir Ris Dr 1
+78061	Blk 104	Pasir Ris Dr 1
+78069	Blk 442	Pasir Ris Dr 1
+78071	Blk 446	Pasir Ris Dr 6
+78079	Blk 429	Pasir Ris Dr 6
+78081	Blk 467	Pasir Ris Dr 6
+78089	Blk 405	Pasir Ris Dr 6
+78091	Opp Downtown East	Pasir Ris Cl
+78099	Aft Loyang Gdns	Jln Loyang Besar
+78101	Opp Downtown East	Pasir Ris Dr 3
+78109	Downtown East	Pasir Ris Dr 3
+78251	Lighthouse	Jln Loyang Besar
+78259	Opp Lighthouse	Jln Loyang Besar
+78261	Unit 169	Jln Loyang Besar
+78269	Opp Coastal View	Jln Loyang Besar
+78271	Casa Pasir Ris	Jln Loyang Besar
+78279	Opp Loyang Townhouse	Jln Loyang Besar
+80011	Opp Sri Manmatha K Tp	Kallang Rd
+80029	Aft Kallang Rd ERP Gantry	Kallang Rd
+80031	Kallang Stn	Sims Ave
+80039	Opp Lor 1 Geylang Ter	Geylang Rd
+80049	Aft Sims Way	Geylang Rd
+80051	Aft Lor 1 Geylang	Sims Ave
+80069	Opp Mohd Salleh Mque	Geylang Rd
+80071	Yi Xiu Fty Bldg	Sims Ave
+80089	Bef Lor 18 Geylang	Geylang Rd
+80091	Bef Lor 23 Geylang	Sims Ave
+80101	Opp Blk 2C	Lor 1 Geylang
+80109	Bet Blks 2B/2C	Lor 1 Geylang
+80111	Bef Geylang Rd	Sims Way
+80119	Aft Geylang Rd	Sims Way
+80251	Assn Bldg	Guillemard Rd
+80259	Aft Chen Li Presby Ch	Guillemard Rd
+81011	Aljunied Stn	Sims Ave
+81029	Aft Lor 28 Geylang	Geylang Rd
+81031	Blk 134	Sims Ave
+81049	Aft Lor 34 Geylang	Geylang Rd
+81051	Sims Ville	Sims Ave
+81069	Opp Lor 39 Geylang	Geylang Rd
+81081	Opp Aljunied Stn	Aljunied Rd
+81089	Aljunied Stn	Aljunied Rd
+81091	Blk 60	Aljunied Rd
+81099	Blk 102	Aljunied Rd
+81101	CISCO Ctr	Paya Lebar Rd
+81109	Opp CISCO Ctr	Paya Lebar Rd
+81111	Paya Lebar Stn	Paya Lebar Rd
+81119	Opp Paya Lebar Stn	Paya Lebar Rd
+81129	Bef Geylang Fire Stn	Paya Lebar Rd
+81131	Opp Grandlink Sq	Guillemard Rd
+81139	Grandlink Sq	Guillemard Rd
+81141	Versailles Condo	Guillemard Rd
+81149	The Sunny Spring Condo	Guillemard Rd
+81151	Kong Hwa Sch	Guillemard Rd
+81159	Opp Kong Hwa Sch	Guillemard Rd
+81161	blk 56	Guillemard Rd
+81169	Opp Blk 56	Guillemard Rd
+82009	Eunos Int	Eunos Rd 2
+82011	Aft Tg Katong Cplx	Sims Ave
+82029	Blk 14 Mkt/FC	Geylang Rd
+82032	Blk 416	Sims Ave
+82033	Blk 414	Sims Ave
+82049	Joo Chiat Cplx	Changi Rd
+82061	Eunos Stn	Sims Ave
+82069	Aft GE Life Ctr	Changi Rd
+82071	Opp Tg Katong Girls' Sch	Tg Katong Rd
+82079	Tg Katong Girls' Sch	Tg Katong Rd
+82081	Aft Dunman Rd	Tg Katong Rd
+82089	Shell Kiosk	Tg Katong Rd
+82091	Aft Queen Of Peace Ch	Tg Katong Rd
+82099	CDAC Bldg	Tg Katong Rd
+82109	City Plaza	Geylang Rd
+82119	Tg Katong Cplx	Tg Katong Rd
+82221	Blk 3A	Jln Turi
+82229	Kg Ubi CC	Jln Ubi
+82231	Opp City Plaza	Guillemard Rd
+83011	Casa Sarina	Sims Ave East
+83029	Bef Jamiyah Home	Changi Rd
+83031	Opp Hong San Si Tp	Sims Ave East
+83049	Bef Lor 110 Changi	Changi Rd
+83059	Mjd Kassim	Changi Rd
+83062	Kembangan Stn	Sims Ave East
+83079	Bef Siglap Plain	Changi Rd
+83081	Opp Perpetual Succour Ch	Sims Ave East
+83099	Aft Perpetual Succour Ch	Changi Rd
+83101	Eunos Stn	Jln Eunos
+83109	Opp Eunos Stn	Jln Eunos
+83111	Blk 17	Jln Eunos
+83119	Opp Blk 16	Jln Eunos
+84009	Bedok Int	Bedok Nth Dr
+84011	Chai Chee Ind Pk	New Upp Changi Rd
+84019	Opp Chai Chee Ind Pk	New Upp Changi Rd
+84021	Blk 32	New Upp Changi Rd
+84029	Opp Blk 32	New Upp Changi Rd
+84031	Bedok Stn	New Upp Changi Rd
+84039	Bedok Stn	New Upp Changi Rd
+84041	Blk 221A	New Upp Changi Rd
+84049	Blk 27	New Upp Changi Rd
+84051	Bedok Sports Cplx	New Upp Changi Rd
+84059	Blk 65	New Upp Changi Rd
+84061	The Tanamera Condo	New Upp Changi Rd
+84069	Blk 55	New Upp Changi Rd
+84071	Blk 71	Bedok Sth Rd
+84079	Blk 45	Bedok Sth Rd
+84081	Opp Blk 40	Bedok Sth Rd
+84089	Blk 40	Bedok Sth Rd
+84101	Opp Blk 49	Bedok Sth Ave 3
+84109	Blk 50	Bedok Sth Ave 3
+84111	Temasek JC	Bedok Sth Rd
+84119	Opp Temasek JC	Bedok Sth Rd
+84121	Aft Bedok Sth Ave 1	Bedok Sth Rd
+84129	Fujitec S'pore Ltd	Bedok Sth Rd
+84131	Opp Panasonic	Bedok Sth Rd
+84139	Panasonic	Bedok Sth Rd
+84141	Opp Lion Home For Elders	Bedok Sth Rd
+84149	Lion Home For Elders	Bedok Sth Rd
+84151	Casafina	Bedok Sth Ave 1
+84159	Hitachi Consumer Products	Bedok Sth Ave 1
+84301	Opp Kg Chai Chee CC	Bedok Nth Ave 1
+84309	Kg Chai Chee CC	Bedok Nth Ave 1
+84361	Blk 547	Bedok Nth Rd
+84369	Blk 45	Bedok Nth Rd
+84451	Opp Blks 705/706	Bedok Nth Rd
+84459	Bet Blks 705/706	Bedok Nth Rd
+84461	Opp Blk 701	Bedok Reservoir Rd
+84469	Blk 703	Bedok Reservoir Rd
+84471	Blk 745	Bedok Reservoir Rd
+84479	Blk 713	Bedok Reservoir Rd
+84481	Opp Kaki Bt Ctr	Bedok Reservoir Rd
+84489	Aft Kaki Bt Ctr	Bedok Reservoir Rd
+84491	Blk 629	Bedok Reservoir Rd
+84499	Blk 140	Bedok Reservoir Rd
+84501	Christ Ch	Bedok Reservoir Rd
+84511	Blk 608	Bedok Reservoir Rd
+84601	Opp Waterfront Key	Bedok Reservoir Rd
+84609	Waterfront Key	Bedok Reservoir Rd
+84611	Opp Waterfront Isle	Bedok Reservoir Rd
+84619	Waterfront Isle	Bedok Reservoir Rd
+84621	Opp Blk 716	Bedok Reservoir Rd
+84629	Blk 716	Bedok Reservoir Rd
+84631	Opp Waterfront Waves	Bedok Reservoir Rd
+84639	Aft Waterfront Waves	Bedok Reservoir Rd
+85051	Aft Jln Chempaka Kuning	Bedok Rd
+85059	Bef Jln Chempaka Kuning	Bedok Rd
+85061	Opp Bedok Mkt Pl	Bedok Rd
+85069	Bedok Mkt Pl	Bedok Rd
+85071	Bef Changi Fire Stn	Upp Changi Rd
+85079	Flextronic	Upp Changi Rd
+85081	Bef Jln Pari Burong	Upp Changi Rd
+85089	Bef Jln Chempaka Kuning	Upp Changi Rd
+85091	Tanah Merah Stn	New Upp Changi Rd
+85099	Tanah Merah Stn	New Upp Changi Rd
+85101	Aft Bedok Rd	Upp Changi Rd East
+85109	Bef Bedok Rd	Upp Changi Rd East
+92041	Opp Parkway Parade	Marine Parade Rd
+92049	Parkway Parade	Marine Parade Rd
+92051	Opp Blk 72	Marine Parade Rd
+92059	Bet Blks 72/74	Marine Parade Rd
+92061	CHIJ Katong Convent (Pr)	Marine Parade Rd
+92069	Tao Nan Sch	Marine Parade Rd
+92071	Opp Blk 57	Marine Parade Rd
+92079	Blk 57	Marine Parade Rd
+92081	St. Patrick's Sec Sch	Marine Parade Rd
+92089	CHIJ Katong Convent	Marine Parade Rd
+92161	Aft Katong PO	Tg Katong Rd
+92169	Bef Katong PO	Tg Katong Rd
+92241	Amber Gdn	Amber Rd
+92249	Opp Amber Gdn	Amber Rd
+93011	Opp Neptune Ct	Marine Parade Rd
+93019	Neptune Ct	Marine Parade Rd
+93021	Opp Mandarin Gdns	Marine Parade Rd
+93029	Mandarin Gdns	Marine Parade Rd
+93031	Opp Laguna Pk	Marine Parade Rd
+93039	Laguna Pk	Marine Parade Rd
+93041	Hua Xin Ct	Marine Parade Rd
+93049	Lagoon View	Marine Parade Rd
+93131	Opp Eastern Lagoon II	Bedok Sth Ave 1
+93139	Eastern Lagoon II	Bedok Sth Ave 1
+93201	Victoria Sch	Marine Parade Rd
+95039	Airfreight Ter Bldg	Airport Cargo Rd
+95041	CIAS Cargo Ters	Airport Cargo Rd
+95049	SATS Cargo Ter	Airport Cargo Rd
+95051	3rd Cargo Agents	Airline Rd
+95061	SIA Hangar	Airline Rd
+95069	Opp SIA Hangar	Airline Rd
+95071	Changi Beach CP 4	Nicoll Dr
+95079	Opp Changi Beach CP 4	Nicoll Dr
+95081	Changi Beach CP 5	Nicoll Dr
+95089	Opp Changi Beach CP 5	Nicoll Dr
+95091	SAF Ferry Ter	Nicoll Dr
+95099	Opp SAF Ferry Ter	Nicoll Dr
+95131	Police Pass Off	Airline Rd
+95139	Police Pass Off	Airline Rd
+95141	Aft Cargo Bldg D	Airline Rd
+95149	Bef Cargo Bldg D	Airline Rd
+95161	Bef Changi Ferry Rd	Changi Coast Rd
+95169	Aft Changi Ferry Rd	Changi Coast Rd
+95171	Prologis	Alps Ave
+95179	DHL	Alps Ave
+95181	Menlo Worldwide	Alps Ave
+95189	Expeditors	Alps Ave
+95191	Opp DB Schenker	Alps Ave
+96011	Bef Simei Ave	Upp Changi Rd East
+96019	Aft Simei Ave	Upp Changi Rd East
+96021	Opp Expo Halls 1/2/3	Upp Changi Rd East
+96029	Expo Halls 1/2/3	Upp Changi Rd East
+96031	Opp Expo Halls 4/5/6	Upp Changi Rd East
+96039	Expo Halls 4/5/6	Upp Changi Rd East
+96101	Blk 3012	Simei Ave
+96109	Opp Blk 3012	Simei Ave
+96121	Metta Welfare Assn	Simei Rd
+96129	Melville Pk	Simei Rd
+96131	Blk 130	Simei St 1
+96139	Blk 148	Simei St 1
+96141	Blk 120	Simei St 1
+96149	Simei Stn	Simei St 1
+96151	Blk 106	Simei St 1
+96159	Blk 254	Simei St 1
+96161	Opp Simei Stn	Simei St 3
+96169	Simei Stn	Simei St 3
+96171	Bet Blks 227/228	Simei St 4
+96179	Modena Condo/Opp Blk 228	Simei St 4
+96181	Blk 151	Simei Rd
+96189	Blk 166	Simei Rd
+96201	Simei Green Condo	Simei Rd
+96209	Opp Simei Green Condo	Simei Rd
+96219	Tanah Merah Ferry Ter	Tanah Merah Ferry Rd
+96221	Opp S'pore Expo	Xilin Ave
+96229	S'pore Expo	Xilin Ave
+96231	DB Schenker	Xilin Ave
+96239	CEVA Freight	Xilin Ave
+96241	Laguna Natl C. Club	Xilin Ave
+96249	Builders Ctr	Xilin Ave
+96251	Bef Changi General Hosp	Simei St 3
+96259	Aft Changi General Hosp	Simei St 3
+96261	Blk 233	Simei St 3
+96269	Blk 146	Simei St 3
+96271	Opp Global Logistics Ctr	Xilin Ave
+96291	Blk 223	Simei St 4
+96299	Simei Green Condo	Simei St 4
+98011	Blk 149A	Loyang Ave
+98019	Opp Blk 149A	Loyang Ave
+98021	Blk 275	Loyang Ave
+98029	Opp Blk 275	Loyang Ave
+98031	Aft Pasir Ris Dr 3	Loyang Ave
+98039	Bef New Loyang Link	Loyang Ave
+98041	Opp Loyang Valley	Loyang Ave
+98049	Loyang Valley	Loyang Ave
+98051	Bef Loyang Way	Loyang Ave
+98059	Aft Loyang Way	Loyang Ave
+98061	Opp Engine Test Facility	Loyang Ave
+98069	Aft Engine Test Facility	Loyang Ave
+98071	LP 80	Loyang Ave
+98079	Bef Engine Test Facility	Loyang Ave
+98091	Blk 156	Pasir Ris Dr 1
+98099	Blk 269A	Pasir Ris Dr 1
+98231	Loyang Ind Est	Loyang Ave
+98239	Opp Loyang Ind Est	Loyang Ave
+99011	Bef Sch Of Commando	Loyang Ave
+99019	Aft Sch Of Commando	Loyang Ave
+99021	Bef Cranwell Rd	Loyang Ave
+99029	Aft Cranwell Rd	Loyang Ave
+99031	Opp Maranatha B-P Ch	Loyang Ave
+99039	St. George Chapel	Loyang Ave
+99041	Aft Changi Golf Course	Loyang Ave
+99049	Changi Golf Course	Loyang Ave
+99161	Bef Changi Beach CP 3	Nicoll Dr
+99171	Changi Beach CP 2	Nicoll Dr
+99181	Bef S'pore Aviation Ac	Telok Paku Rd
+99189	S'pore Aviation Ac	Telok Paku Rd

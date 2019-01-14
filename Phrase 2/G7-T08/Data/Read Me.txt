@@ -1,0 +1,3 @@
+We are not providing data for Bus_location because there are too many.
+
+Please look at the files to see what is the delimiter of fields and accordingly use LOAD statement. 
